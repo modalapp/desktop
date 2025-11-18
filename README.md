@@ -1,1 +1,1 @@
-# modal software git upload / release repo
+# modal desktop software download
